@@ -1,11 +1,14 @@
 
 import './App.css';
+import Cabecalho from './Componentes/Cabecalho';
 
 function App() {
   return (
     <div className="App">
         <h1>isabella Belo</h1>
-    teste  teste
+        <Cabecalho/>
+        <Cabecalho/>
+      
     </div>
   );
 }
